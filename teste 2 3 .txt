@@ -1,5 +1,0 @@
-hahahaha
-testetets
-
-
-int a=6;
